@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCleanarchGeneralProj.WebU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppTutorial", "..\..\..\..\proj\WindowsFormsAppTutorial\WindowsFormsAppTutorial\WindowsFormsAppTutorial.csproj", "{4DB4391B-1E0B-4EFE-8F42-D811B6415806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppNETCore", "WinFormsAppNETCore\WinFormsAppNETCore.csproj", "{973190EB-002A-45BE-8228-BDC6762E28B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4DB4391B-1E0B-4EFE-8F42-D811B6415806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB4391B-1E0B-4EFE-8F42-D811B6415806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB4391B-1E0B-4EFE-8F42-D811B6415806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973190EB-002A-45BE-8228-BDC6762E28B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973190EB-002A-45BE-8228-BDC6762E28B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973190EB-002A-45BE-8228-BDC6762E28B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973190EB-002A-45BE-8228-BDC6762E28B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
